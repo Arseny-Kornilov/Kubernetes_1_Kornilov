@@ -32,4 +32,4 @@
 2. Убедиться, что nginx не стартует. В качестве Init-контейнера взять busybox.
 3. Создать и запустить Service. Убедиться, что Init запустился.
 4. Продемонстрировать состояние пода до и после запуска сервиса.
-5. <img width="1683" height="1235" alt="image" src="https://github.com/user-attachments/assets/2cd7b748-c322-46f2-ac10-529bbacb9c3b" />
+<img width="1683" height="1235" alt="image" src="https://github.com/user-attachments/assets/2cd7b748-c322-46f2-ac10-529bbacb9c3b" />
